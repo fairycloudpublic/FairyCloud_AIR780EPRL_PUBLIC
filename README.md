@@ -34,7 +34,7 @@ _G.secretkey = ""
 [【新款低功耗定位器，支持多种定位模式GPS、LBS、WIFI，以及远程控制-哔哩哔哩】](https://b23.tv/AHgPGA0)
 
 ### 说明文档
-[【外部】AIR780EP定位器说明](https://gv9jqt8gpcb.feishu.cn/docx/DkSqdCVv0otmb1xAD7Gc4iB8nfK)
+[【外部】AIR780EP定位器说明](https://gv9jqt8gpcb.feishu.cn/docx/B96FdeGonoGN5bx97iqcGje0nGb)
 
 ### 实物图片
 ![image](https://github.com/fairycloudpublic/FairyCloud_AIR780EPRL_PUBLIC/blob/main/photo1.png)
